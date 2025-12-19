@@ -1,0 +1,8 @@
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: 'zhangfei666' into element: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: '' into element: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_login_btn')
+INFO     my_app_logger:base_pages.py:76 Clicked element: ('id', 'com.tal.kaoyan:id/login_login_btn')
+INFO     my_app_logger:base_pages.py:42 Element found: ('xpath', '//*[contains(@text,"不能为空")]')
+INFO     my_app_logger:base_pages.py:284 获取Toast消息的文本 邮箱帐户密码不能为空 成功

@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5588","[密码为空用户名正确]","test_cases","Fri Dec 19 09:12:19 CST 2025","passed","Fri Dec 19 09:12:25 CST 2025","TestLogin","test_login","",""
+"","5975","[用户名密码不匹配登录失败]","test_cases","Fri Dec 19 09:12:48 CST 2025","passed","Fri Dec 19 09:12:54 CST 2025","TestLogin","test_login","",""
+"","17264","[正确用户名密码登录成功]","test_cases","Fri Dec 19 09:10:41 CST 2025","passed","Fri Dec 19 09:10:58 CST 2025","TestLogin","test_login","",""
+"","34559","[用户名为空密码正确登录失败]","test_cases","Fri Dec 19 09:11:22 CST 2025","failed","Fri Dec 19 09:11:57 CST 2025","TestLogin","test_login","",""

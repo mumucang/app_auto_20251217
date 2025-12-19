@@ -1,0 +1,8 @@
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: 'zhangfei666' into element: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: '342342342' into element: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_login_btn')
+INFO     my_app_logger:base_pages.py:76 Clicked element: ('id', 'com.tal.kaoyan:id/login_login_btn')
+INFO     my_app_logger:base_pages.py:42 Element found: ('xpath', '//*[contains(@text,"错误")]')
+INFO     my_app_logger:base_pages.py:284 获取Toast消息的文本 用户名或密码错误，你还可以尝试4次 成功

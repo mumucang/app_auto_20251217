@@ -1,0 +1,8 @@
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: '' into element: ('id', 'com.tal.kaoyan:id/login_email_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:88 Input text: 'zhang123' into element: ('id', 'com.tal.kaoyan:id/login_password_edittext')
+INFO     my_app_logger:base_pages.py:42 Element found: ('id', 'com.tal.kaoyan:id/login_login_btn')
+INFO     my_app_logger:base_pages.py:76 Clicked element: ('id', 'com.tal.kaoyan:id/login_login_btn')
+ERROR    my_app_logger:base_pages.py:45 Element not found within 30 seconds: ('xpath', '//*[contains(@text,"账户不能为空")]')
+ERROR    my_app_logger:base_pages.py:288 获取Toast消息的文本失败: 'NoneType' object has no attribute 'text'
